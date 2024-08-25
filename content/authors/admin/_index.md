@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 许士勋
+title: Shixun Xu
 
-# Name pronunciation (optional)
-name_pronunciation: Shi Xun Xu
+# # Name pronunciation (optional)
+# name_pronunciation: Shi Xun Xu
 
 # Full name (for SEO)
 first_name: Shi Xun
@@ -22,10 +22,10 @@ highlight_name: true
 # Role/position/tagline
 # role: Chief Scientist
 
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: Beijing University of Posts and Telecommunications
-    url: https://www.bupt.edu.cn/
+# # Organizations/Affiliations to display in Biography blox
+# organizations:
+#   - name: Beijing University of Posts and Telecommunications
+#     url: https://www.bupt.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
