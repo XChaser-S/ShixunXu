@@ -42,8 +42,8 @@ interests:
 education:
   - area: M.Eng. in Information and Communication Engineering
     institution: Beijing University of Posts and Telecommunications
-    date_start: 2022-09
-    date_end: 2025-06
+    date_start: 2022-09-01
+    date_end: 2025-06-01
     summary: |
       GPA: 3.57/4.00
 
@@ -53,8 +53,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: B.Eng. in Science and Technology of Electronic and Information
     institution: Shanxi University
-    date_start: 2018-09
-    date_end: 2022-07
+    date_start: 2018-09-01
+    date_end: 2022-07-01
     summary: |
       GPA: 4.07/4.50
       
