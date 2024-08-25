@@ -3,7 +3,7 @@
 title: 许士勋
 
 # Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
+name_pronunciation: Shi Xun Xu
 
 # Full name (for SEO)
 first_name: Shi Xun
@@ -29,10 +29,10 @@ organizations:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: at-symbol
-    url: 'mailto:XUsx0130@bupt.edu.cn'
-    label: E-mail Me
+# profiles:
+#   - icon: at-symbol
+#     url: 'mailto:XUsx0130@bupt.edu.cn'
+#     label: E-mail Me
 
 interests:
   - Network management and resource allocation through AI algorithms or optimization methods
@@ -42,26 +42,26 @@ interests:
 education:
   - area: M.Eng. in Information and Communication Engineering
     institution: Beijing University of Posts and Telecommunications
-    date_start: 2022-09-01
-    date_end: 2025-06-01
-    summary: |
-      GPA: 3.57/4.00
+    # date_start: 2022-09-01
+    # date_end: 2025-06-01
+    # summary: |
+    #   GPA: 3.57/4.00
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: B.Eng. in Science and Technology of Electronic and Information
     institution: Shanxi University
-    date_start: 2018-09-01
-    date_end: 2022-07-01
-    summary: |
-      GPA: 4.07/4.50
+    # date_start: 2018-09-01
+    # date_end: 2022-07-01
+    # summary: |
+    #   GPA: 4.07/4.50
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
@@ -88,45 +88,45 @@ education:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 80
+#         icon: code-bracket
+#       - name: Data Science
+#         description: ''
+#         percent: 100
+#         icon: chart-bar
+#       - name: SQL
+#         description: ''
+#         percent: 40
+#         icon: circle-stack
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Hiking
+#         description: ''
+#         percent: 60
+#         icon: person-simple-walk
+#       - name: Cats
+#         description: ''
+#         percent: 100
+#         icon: cat
+#       - name: Photography
+#         description: ''
+#         percent: 80
+#         icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: Chinese
+#     percent: 75
+#   - name: Portuguese
+#     percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -162,4 +162,4 @@ languages:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a postgraduate in Beijing University of Posts and Telecommunications (BUPT), and I will get my Master's degree in June, 2025. My research primarily focuses on developing AI algorithms for the management, optimization, and resource allocation of wired and wireless networks. Additionally, I am passionate about constructing AI systems and enabling device-edgecloud collaboration for AI model deployment. Through the following link, you can get access to my Curriculum Vitae (CV).
